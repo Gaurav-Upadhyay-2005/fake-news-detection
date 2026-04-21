@@ -1,0 +1,9 @@
+﻿venv/
+data sets/
+V2_cleaned kaggle datasets/
+V2_dl_model_saved/
+V2_Saved_Models_ML/
+__pycache__/
+*.pyc
+.env
+app.py
